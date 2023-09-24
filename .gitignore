@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Discord_Bot/admin_bot/.vs/admin_bot/FileContentIndex/fb4d2b27-5b2e-4902-962b-ce0187413304.vsidx
+/Discord_Bot/admin_bot/.vs/admin_bot/FileContentIndex/d02f27fd-483d-4f48-968c-0db2ed5c4e29.vsidx
+/Discord_Bot/admin_bot/.vs/admin_bot/FileContentIndex/3c076563-222f-441e-9f86-a8097c6488d6.vsidx
+/Discord_Bot/admin_bot/.env
+/Discord_Bot/admin_bot/admin_bot.sln
+/Discord_Bot/admin_bot/admin_bot.pyproj
+/Discord_Bot/token.txt
+/Discord_Bot/admin_bot/.vs/admin_bot/v17/.suo
